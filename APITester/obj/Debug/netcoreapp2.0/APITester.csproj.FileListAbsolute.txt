@@ -1,0 +1,11 @@
+c:\users\marku\source\repos\APITester\APITester\bin\Debug\netcoreapp2.0\APITester.deps.json
+c:\users\marku\source\repos\APITester\APITester\bin\Debug\netcoreapp2.0\APITester.runtimeconfig.json
+c:\users\marku\source\repos\APITester\APITester\bin\Debug\netcoreapp2.0\APITester.runtimeconfig.dev.json
+c:\users\marku\source\repos\APITester\APITester\bin\Debug\netcoreapp2.0\APITester.dll
+c:\users\marku\source\repos\APITester\APITester\bin\Debug\netcoreapp2.0\APITester.pdb
+c:\users\marku\source\repos\APITester\APITester\obj\Debug\netcoreapp2.0\APITester.csprojResolveAssemblyReference.cache
+c:\users\marku\source\repos\APITester\APITester\obj\Debug\netcoreapp2.0\APITester.csproj.CoreCompileInputs.cache
+c:\users\marku\source\repos\APITester\APITester\obj\Debug\netcoreapp2.0\APITester.AssemblyInfoInputs.cache
+c:\users\marku\source\repos\APITester\APITester\obj\Debug\netcoreapp2.0\APITester.AssemblyInfo.cs
+c:\users\marku\source\repos\APITester\APITester\obj\Debug\netcoreapp2.0\APITester.dll
+c:\users\marku\source\repos\APITester\APITester\obj\Debug\netcoreapp2.0\APITester.pdb
